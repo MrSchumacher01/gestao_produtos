@@ -56,4 +56,4 @@ git clone https://github.com/MrSchumacher01/gestao_produtos.git
 Este projeto foi desenvolvido para fins educacionais.
 
 ---
-🚀 **Desenvolvido por:** *MrSchumacher01*
+🚀 **Desenvolvido por:** *Marcos Schumacher*
